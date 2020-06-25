@@ -1,0 +1,1066 @@
+[{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87ba8"
+  },
+  "Adolescent": "23:08\n",
+  "Baby": "4:37\n",
+  "Juvenile": "18:31\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "1d 22:17\n",
+  "mat_time": "1:39\n",
+  "max_c": "32\n",
+  "max_f": "90\n",
+  "min_C": "26\n",
+  "min_f": "79\n",
+  "species": "  Allosaurus\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87ba9"
+  },
+  "Adolescent": "18:31\n",
+  "Baby": "3:42\n",
+  "Juvenile": "14:48\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "1d 13:02\n",
+  "mat_time": "4:59\n",
+  "max_c": "75\n",
+  "max_f": "167\n",
+  "min_C": "-75\n",
+  "min_f": "-103\n",
+  "species": "  Anglerfish\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87baa"
+  },
+  "Adolescent": "1d 00:21\n",
+  "Baby": "4:52\n",
+  "Juvenile": "19:29\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "2d 00:43\n",
+  "mat_time": "2:37\n",
+  "max_c": "20\n",
+  "max_f": "68\n",
+  "min_C": "16\n",
+  "min_f": "61\n",
+  "species": "  Ankylosaurus\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bab"
+  },
+  "Adolescent": "7:42\n",
+  "Baby": "1:32\n",
+  "Juvenile": "6:10\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "15:25\n",
+  "mat_time": "2:37\n",
+  "max_c": "20\n",
+  "max_f": "68\n",
+  "min_C": "16\n",
+  "min_f": "61\n",
+  "species": "  Archaeopteryx\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bac"
+  },
+  "Adolescent": "1d 03:13\n",
+  "Baby": "5:26\n",
+  "Juvenile": "21:47\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "2d 06:27\n",
+  "mat_time": "2:56\n",
+  "max_c": "13.5\n",
+  "max_f": "56\n",
+  "min_C": "12\n",
+  "min_f": "54\n",
+  "species": "  Argentavis\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bad"
+  },
+  "Adolescent": "23:08\n",
+  "Baby": "4:37\n",
+  "Juvenile": "18:31\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "1d 22:17\n",
+  "mat_time": "1:59\n",
+  "max_c": "35\n",
+  "max_f": "95\n",
+  "min_C": "29\n",
+  "min_f": "84\n",
+  "species": "  Baryonyx\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bae"
+  },
+  "Adolescent": "18:31\n",
+  "Baby": "3:42\n",
+  "Juvenile": "14:48\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "1d 13:02\n",
+  "mat_time": "4:59\n",
+  "max_c": "50\n",
+  "max_f": "122\n",
+  "min_C": "0\n",
+  "min_f": "32\n",
+  "species": "  Beelzebufo\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87baf"
+  },
+  "Adolescent": "1d 03:13\n",
+  "Baby": "5:26\n",
+  "Juvenile": "21:47\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "2d 06:27\n",
+  "mat_time": "2:56\n",
+  "max_c": "30\n",
+  "max_f": "86\n",
+  "min_C": "27\n",
+  "min_f": "81\n",
+  "species": "  Bloodstalker\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bb0"
+  },
+  "Adolescent": "1d 22:17\n",
+  "Baby": "9:15\n",
+  "Juvenile": "1d 13:02\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "3d 20:35\n",
+  "mat_time": "4:59\n",
+  "max_c": "31\n",
+  "max_f": "88\n",
+  "min_C": "28\n",
+  "min_f": "82\n",
+  "species": "  Brontosaurus\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bb1"
+  },
+  "Adolescent": "11:34\n",
+  "Baby": "2:18\n",
+  "Juvenile": "9:15\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "23:08\n",
+  "mat_time": "1:14\n",
+  "max_c": "34\n",
+  "max_f": "93\n",
+  "min_C": "30\n",
+  "min_f": "86\n",
+  "species": "  Carbonemys\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bb2"
+  },
+  "Adolescent": "23:08\n",
+  "Baby": "4:37\n",
+  "Juvenile": "18:31\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "1d 22:17\n",
+  "mat_time": "1:39\n",
+  "max_c": "32\n",
+  "max_f": "90\n",
+  "min_C": "26\n",
+  "min_f": "79\n",
+  "species": "  Carnotaurus\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bb3"
+  },
+  "Adolescent": "1d 22:17\n",
+  "Baby": "9:15\n",
+  "Juvenile": "1d 13:02\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "3d 20:35\n",
+  "mat_time": "0:49\n",
+  "max_c": "32\n",
+  "max_f": "90\n",
+  "min_C": "24\n",
+  "min_f": "75\n",
+  "species": "  Compy\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bb4"
+  },
+  "Adolescent": "1d 22:17\n",
+  "Baby": "9:15\n",
+  "Juvenile": "1d 13:02\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "3d 20:35\n",
+  "mat_time": "4:59\n",
+  "max_c": "85\n",
+  "max_f": "185\n",
+  "min_C": "75\n",
+  "min_f": "167\n",
+  "species": "  Crystal Wyvern\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bb5"
+  },
+  "Adolescent": "18:31\n",
+  "Baby": "3:42\n",
+  "Juvenile": "14:48\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "1d 13:02\n",
+  "mat_time": "4:59\n",
+  "max_c": "90\n",
+  "max_f": "194\n",
+  "min_C": "80\n",
+  "min_f": "176\n",
+  "species": "  Deinonychus\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bb6"
+  },
+  "Adolescent": "10:31\n",
+  "Baby": "2:06\n",
+  "Juvenile": "8:25\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "21:02\n",
+  "mat_time": "1:08\n",
+  "max_c": "32\n",
+  "max_f": "90\n",
+  "min_C": "28\n",
+  "min_f": "82\n",
+  "species": "  Dilophosaur\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bb7"
+  },
+  "Adolescent": "23:08\n",
+  "Baby": "4:37\n",
+  "Juvenile": "18:31\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "1d 22:17\n",
+  "mat_time": "2:29\n",
+  "max_c": "34\n",
+  "max_f": "93\n",
+  "min_C": "30\n",
+  "min_f": "86\n",
+  "species": "  Dimetrodon\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bb8"
+  },
+  "Adolescent": "12:30\n",
+  "Baby": "2:30\n",
+  "Juvenile": "10:00\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "1d 01:01\n",
+  "mat_time": "1:21\n",
+  "max_c": "38\n",
+  "max_f": "100\n",
+  "min_C": "35\n",
+  "min_f": "95\n",
+  "species": "  Dimorphodon\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bb9"
+  },
+  "Adolescent": "18:31\n",
+  "Baby": "3:42\n",
+  "Juvenile": "14:48\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "1d 13:02\n",
+  "mat_time": "4:59\n",
+  "max_c": "50\n",
+  "max_f": "122\n",
+  "min_C": "0\n",
+  "min_f": "32\n",
+  "species": "  Diplocaulus\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bba"
+  },
+  "Adolescent": "1d 22:17\n",
+  "Baby": "9:15\n",
+  "Juvenile": "1d 13:02\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "3d 20:35\n",
+  "mat_time": "4:59\n",
+  "max_c": "29\n",
+  "max_f": "84\n",
+  "min_C": "26\n",
+  "min_f": "79\n",
+  "species": "  Diplodocus\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bbb"
+  },
+  "Adolescent": "7:42\n",
+  "Baby": "1:32\n",
+  "Juvenile": "6:10\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "15:25\n",
+  "mat_time": "0:49\n",
+  "max_c": "30\n",
+  "max_f": "86\n",
+  "min_C": "22\n",
+  "min_f": "72\n",
+  "species": "  Dodo\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bbc"
+  },
+  "Adolescent": "23:08\n",
+  "Baby": "4:37\n",
+  "Juvenile": "18:31\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "1d 22:17\n",
+  "mat_time": "4:59\n",
+  "max_c": "50\n",
+  "max_f": "122\n",
+  "min_C": "0\n",
+  "min_f": "32\n",
+  "species": "  Electrophorus\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bbd"
+  },
+  "Adolescent": "1d 00:21\n",
+  "Baby": "4:52\n",
+  "Juvenile": "19:29\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "2d 00:43\n",
+  "mat_time": "1:39\n",
+  "max_c": "32\n",
+  "max_f": "90\n",
+  "min_C": "29\n",
+  "min_f": "84\n",
+  "species": "  Featherlight\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bbe"
+  },
+  "Adolescent": "13:13\n",
+  "Baby": "2:38\n",
+  "Juvenile": "10:34\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "1d 02:27\n",
+  "mat_time": "1:25\n",
+  "max_c": "28\n",
+  "max_f": "82\n",
+  "min_C": "24\n",
+  "min_f": "75\n",
+  "species": "  Gallimimus\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bbf"
+  },
+  "Adolescent": "5d 20:17\n",
+  "Baby": "1d 04:03\n",
+  "Juvenile": "4d 16:14\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "11d 16:35\n",
+  "mat_time": "2d 01:59\n",
+  "max_c": "44\n",
+  "max_f": "111\n",
+  "min_C": "43\n",
+  "min_f": "109\n",
+  "species": "  Giganotosaurus\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bc0"
+  },
+  "Adolescent": "1d 00:21\n",
+  "Baby": "4:52\n",
+  "Juvenile": "19:29\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "2d 00:43\n",
+  "mat_time": "2:29\n",
+  "max_c": "34\n",
+  "max_f": "93\n",
+  "min_C": "30\n",
+  "min_f": "86\n",
+  "species": "  Glowtail\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bc1"
+  },
+  "Adolescent": "14:01\n",
+  "Baby": "2:48\n",
+  "Juvenile": "11:13\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "1d 04:03\n",
+  "mat_time": "1:30\n",
+  "max_c": "30\n",
+  "max_f": "86\n",
+  "min_C": "22\n",
+  "min_f": "72\n",
+  "species": "  Hesperornis\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bc2"
+  },
+  "Adolescent": "18:31\n",
+  "Baby": "3:42\n",
+  "Juvenile": "14:48\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "1d 13:02\n",
+  "mat_time": "1:39\n",
+  "max_c": "32\n",
+  "max_f": "90\n",
+  "min_C": "29\n",
+  "min_f": "84\n",
+  "species": "  Ichthyornis\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bc3"
+  },
+  "Adolescent": "23:08\n",
+  "Baby": "4:37\n",
+  "Juvenile": "18:31\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "1d 22:17\n",
+  "mat_time": "1:25\n",
+  "max_c": "28\n",
+  "max_f": "82\n",
+  "min_C": "24\n",
+  "min_f": "75\n",
+  "species": "  Iguanodon\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bc4"
+  },
+  "Adolescent": "14:01\n",
+  "Baby": "2:48\n",
+  "Juvenile": "11:13\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "1d 04:03\n",
+  "mat_time": "1:30\n",
+  "max_c": "30\n",
+  "max_f": "86\n",
+  "min_C": "22\n",
+  "min_f": "72\n",
+  "species": "  Kairuku\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bc5"
+  },
+  "Adolescent": "18:31\n",
+  "Baby": "3:42\n",
+  "Juvenile": "14:48\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "1d 13:02\n",
+  "mat_time": "1:59\n",
+  "max_c": "35\n",
+  "max_f": "95\n",
+  "min_C": "29\n",
+  "min_f": "84\n",
+  "species": "  Kaprosuchus\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bc6"
+  },
+  "Adolescent": "1d 01:43\n",
+  "Baby": "5:08\n",
+  "Juvenile": "20:34\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "2d 03:26\n",
+  "mat_time": "2:46\n",
+  "max_c": "30\n",
+  "max_f": "86\n",
+  "min_C": "24\n",
+  "min_f": "75\n",
+  "species": "  Kentrosaurus\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bc7"
+  },
+  "Adolescent": "7:42\n",
+  "Baby": "1:32\n",
+  "Juvenile": "6:10\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "15:25\n",
+  "mat_time": "0:49\n",
+  "max_c": "28\n",
+  "max_f": "82\n",
+  "min_C": "24\n",
+  "min_f": "75\n",
+  "species": "  Lystrosaurus\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bc8"
+  },
+  "Adolescent": "3d 20:35\n",
+  "Baby": "18:31\n",
+  "Juvenile": "3d 02:04\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "7d 17:11\n",
+  "mat_time": "4:59\n",
+  "max_c": "110\n",
+  "max_f": "230\n",
+  "min_C": "90\n",
+  "min_f": "194\n",
+  "species": "  Magmasaur\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bc9"
+  },
+  "Adolescent": "1d 22:17\n",
+  "Baby": "9:15\n",
+  "Juvenile": "1d 13:02\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "3d 20:35\n",
+  "mat_time": "4:59\n",
+  "max_c": "75\n",
+  "max_f": "167\n",
+  "min_C": "-75\n",
+  "min_f": "-103\n",
+  "species": "  Megachelon\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bca"
+  },
+  "Adolescent": "18:31\n",
+  "Baby": "3:42\n",
+  "Juvenile": "14:48\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "1d 13:02\n",
+  "mat_time": "1:59\n",
+  "max_c": "35\n",
+  "max_f": "95\n",
+  "min_C": "29\n",
+  "min_f": "84\n",
+  "species": "  Megalania\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bcb"
+  },
+  "Adolescent": "1d 22:17\n",
+  "Baby": "9:15\n",
+  "Juvenile": "1d 13:02\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "3d 20:35\n",
+  "mat_time": "1:39\n",
+  "max_c": "32\n",
+  "max_f": "90\n",
+  "min_C": "26\n",
+  "min_f": "79\n",
+  "species": "  Megalosaurus\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bcc"
+  },
+  "Adolescent": "1d 03:13\n",
+  "Baby": "5:26\n",
+  "Juvenile": "21:47\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "2d 06:27\n",
+  "mat_time": "1:25\n",
+  "max_c": "28\n",
+  "max_f": "82\n",
+  "min_C": "24\n",
+  "min_f": "75\n",
+  "species": "  Microraptor\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bcd"
+  },
+  "Adolescent": "15:25\n",
+  "Baby": "3:05\n",
+  "Juvenile": "12:20\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "1d 06:51\n",
+  "mat_time": "2:29\n",
+  "max_c": "28\n",
+  "max_f": "82\n",
+  "min_C": "22\n",
+  "min_f": "72\n",
+  "species": "  Morellatops\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bce"
+  },
+  "Adolescent": "1d 00:21\n",
+  "Baby": "4:52\n",
+  "Juvenile": "19:29\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "2d 00:43\n",
+  "mat_time": "2:37\n",
+  "max_c": "20\n",
+  "max_f": "68\n",
+  "min_C": "16\n",
+  "min_f": "61\n",
+  "species": "  Moschops\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bcf"
+  },
+  "Adolescent": "10:31\n",
+  "Baby": "2:06\n",
+  "Juvenile": "8:25\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "21:02\n",
+  "mat_time": "1:08\n",
+  "max_c": "30\n",
+  "max_f": "86\n",
+  "min_C": "26\n",
+  "min_f": "79\n",
+  "species": "  Oviraptor\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bd0"
+  },
+  "Adolescent": "13:13\n",
+  "Baby": "2:38\n",
+  "Juvenile": "10:34\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "1d 02:27\n",
+  "mat_time": "1:25\n",
+  "max_c": "28\n",
+  "max_f": "82\n",
+  "min_C": "24\n",
+  "min_f": "75\n",
+  "species": "  Pachy\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bd1"
+  },
+  "Adolescent": "23:08\n",
+  "Baby": "4:37\n",
+  "Juvenile": "18:31\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "1d 22:17\n",
+  "mat_time": "2:29\n",
+  "max_c": "28\n",
+  "max_f": "82\n",
+  "min_C": "22\n",
+  "min_f": "72\n",
+  "species": "  Pachyrhinosaurus\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bd2"
+  },
+  "Adolescent": "13:13\n",
+  "Baby": "2:38\n",
+  "Juvenile": "10:34\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "1d 02:27\n",
+  "mat_time": "1:25\n",
+  "max_c": "28\n",
+  "max_f": "82\n",
+  "min_C": "24\n",
+  "min_f": "75\n",
+  "species": "  Parasaur\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bd3"
+  },
+  "Adolescent": "15:25\n",
+  "Baby": "3:05\n",
+  "Juvenile": "12:20\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "1d 06:51\n",
+  "mat_time": "1:08\n",
+  "max_c": "32\n",
+  "max_f": "90\n",
+  "min_C": "28\n",
+  "min_f": "82\n",
+  "species": "  Pegomastax\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bd4"
+  },
+  "Adolescent": "18:31\n",
+  "Baby": "3:42\n",
+  "Juvenile": "14:48\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "1d 13:02\n",
+  "mat_time": "1:39\n",
+  "max_c": "32\n",
+  "max_f": "90\n",
+  "min_C": "29\n",
+  "min_f": "84\n",
+  "species": "  Pelagornis\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bd5"
+  },
+  "Adolescent": "18:31\n",
+  "Baby": "3:42\n",
+  "Juvenile": "14:48\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "1d 13:02\n",
+  "mat_time": "1:39\n",
+  "max_c": "32\n",
+  "max_f": "90\n",
+  "min_C": "29\n",
+  "min_f": "84\n",
+  "species": "  Pteranodon\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bd6"
+  },
+  "Adolescent": "3d 20:35\n",
+  "Baby": "18:31\n",
+  "Juvenile": "3d 02:04\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "7d 17:11\n",
+  "mat_time": "16:39\n",
+  "max_c": "6\n",
+  "max_f": "43\n",
+  "min_C": "5\n",
+  "min_f": "41\n",
+  "species": "  Quetzal\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bd7"
+  },
+  "Adolescent": "18:31\n",
+  "Baby": "3:42\n",
+  "Juvenile": "14:48\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "1d 13:02\n",
+  "mat_time": "1:59\n",
+  "max_c": "28\n",
+  "max_f": "82\n",
+  "min_C": "20\n",
+  "min_f": "68\n",
+  "species": "  Raptor\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bd8"
+  },
+  "Adolescent": "1d 22:17\n",
+  "Baby": "9:15\n",
+  "Juvenile": "1d 13:02\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "3d 20:35\n",
+  "mat_time": "4:59\n",
+  "max_c": "34\n",
+  "max_f": "93\n",
+  "min_C": "32\n",
+  "min_f": "90\n",
+  "species": "  Rex\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bd9"
+  },
+  "Adolescent": "1d 22:17\n",
+  "Baby": "9:15\n",
+  "Juvenile": "1d 13:02\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "3d 20:35\n",
+  "mat_time": "6:14\n",
+  "max_c": "-80\n",
+  "max_f": "-112\n",
+  "min_C": "-90\n",
+  "min_f": "-130\n",
+  "species": "  Rock Drake\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bda"
+  },
+  "Adolescent": "23:08\n",
+  "Baby": "4:37\n",
+  "Juvenile": "18:31\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "1d 22:17\n",
+  "mat_time": "2:29\n",
+  "max_c": "34\n",
+  "max_f": "93\n",
+  "min_C": "30\n",
+  "min_f": "86\n",
+  "species": "  Sarco\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bdb"
+  },
+  "Adolescent": "1d 03:13\n",
+  "Baby": "5:26\n",
+  "Juvenile": "21:47\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "2d 06:27\n",
+  "mat_time": "2:56\n",
+  "max_c": "13.5\n",
+  "max_f": "56\n",
+  "min_C": "12\n",
+  "min_f": "54\n",
+  "species": "  Snow Owl\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bdc"
+  },
+  "Adolescent": "1d 11:36\n",
+  "Baby": "7:07\n",
+  "Juvenile": "1d 04:29\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "2d 23:13\n",
+  "mat_time": "3:50\n",
+  "max_c": "32\n",
+  "max_f": "90\n",
+  "min_C": "30\n",
+  "min_f": "86\n",
+  "species": "  Spino\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bdd"
+  },
+  "Adolescent": "1d 01:43\n",
+  "Baby": "5:08\n",
+  "Juvenile": "20:34\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "2d 03:26\n",
+  "mat_time": "2:46\n",
+  "max_c": "28\n",
+  "max_f": "82\n",
+  "min_C": "22\n",
+  "min_f": "72\n",
+  "species": "  Stegosaurus\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bde"
+  },
+  "Adolescent": "1d 03:13\n",
+  "Baby": "5:26\n",
+  "Juvenile": "21:47\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "2d 06:27\n",
+  "mat_time": "1:39\n",
+  "max_c": "32\n",
+  "max_f": "90\n",
+  "min_C": "29\n",
+  "min_f": "84\n",
+  "species": "  Tapejara\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bdf"
+  },
+  "Adolescent": "13:13\n",
+  "Baby": "2:38\n",
+  "Juvenile": "10:34\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "1d 02:27\n",
+  "mat_time": "1:25\n",
+  "max_c": "28\n",
+  "max_f": "82\n",
+  "min_C": "24\n",
+  "min_f": "75\n",
+  "species": "  Tek Parasaur\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87be0"
+  },
+  "Adolescent": "3d 20:35\n",
+  "Baby": "18:31\n",
+  "Juvenile": "3d 02:04\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "7d 17:11\n",
+  "mat_time": "16:39\n",
+  "max_c": "6\n",
+  "max_f": "43\n",
+  "min_C": "5\n",
+  "min_f": "41\n",
+  "species": "  Tek Quetzal\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87be1"
+  },
+  "Adolescent": "18:31\n",
+  "Baby": "3:42\n",
+  "Juvenile": "14:48\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "1d 13:02\n",
+  "mat_time": "1:59\n",
+  "max_c": "28\n",
+  "max_f": "82\n",
+  "min_C": "20\n",
+  "min_f": "68\n",
+  "species": "  Tek Raptor\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87be2"
+  },
+  "Adolescent": "1d 22:17\n",
+  "Baby": "9:15\n",
+  "Juvenile": "1d 13:02\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "3d 20:35\n",
+  "mat_time": "4:59\n",
+  "max_c": "34\n",
+  "max_f": "93\n",
+  "min_C": "32\n",
+  "min_f": "90\n",
+  "species": "  Tek Rex\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87be3"
+  },
+  "Adolescent": "1d 01:43\n",
+  "Baby": "5:08\n",
+  "Juvenile": "20:34\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "2d 03:26\n",
+  "mat_time": "2:46\n",
+  "max_c": "28\n",
+  "max_f": "82\n",
+  "min_C": "22\n",
+  "min_f": "72\n",
+  "species": "  Tek Stegosaurus\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87be4"
+  },
+  "Adolescent": "23:08\n",
+  "Baby": "4:37\n",
+  "Juvenile": "18:31\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "1d 22:17\n",
+  "mat_time": "1:59\n",
+  "max_c": "28\n",
+  "max_f": "82\n",
+  "min_C": "20\n",
+  "min_f": "68\n",
+  "species": "  Terror Bird\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87be5"
+  },
+  "Adolescent": "2d 09:52\n",
+  "Baby": "11:34\n",
+  "Juvenile": "1d 22:17\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "4d 19:44\n",
+  "mat_time": "1:39\n",
+  "max_c": "32\n",
+  "max_f": "90\n",
+  "min_C": "26\n",
+  "min_f": "79\n",
+  "species": "  Therizinosaur\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87be6"
+  },
+  "Adolescent": "1d 00:21\n",
+  "Baby": "4:52\n",
+  "Juvenile": "19:29\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "2d 00:43\n",
+  "mat_time": "2:29\n",
+  "max_c": "28\n",
+  "max_f": "82\n",
+  "min_C": "22\n",
+  "min_f": "72\n",
+  "species": "  Thorny Dragon\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87be7"
+  },
+  "Adolescent": "23:08\n",
+  "Baby": "4:37\n",
+  "Juvenile": "18:31\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "1d 22:17\n",
+  "mat_time": "2:29\n",
+  "max_c": "28\n",
+  "max_f": "82\n",
+  "min_C": "22\n",
+  "min_f": "72\n",
+  "species": "  Triceratops\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87be8"
+  },
+  "Adolescent": "10:31\n",
+  "Baby": "2:06\n",
+  "Juvenile": "8:25\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "21:02\n",
+  "mat_time": "1:08\n",
+  "max_c": "32\n",
+  "max_f": "90\n",
+  "min_C": "28\n",
+  "min_f": "82\n",
+  "species": "  Troodon\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87be9"
+  },
+  "Adolescent": "1d 03:13\n",
+  "Baby": "5:26\n",
+  "Juvenile": "21:47\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "2d 06:27\n",
+  "mat_time": "1:39\n",
+  "max_c": "32\n",
+  "max_f": "90\n",
+  "min_C": "29\n",
+  "min_f": "84\n",
+  "species": "  Tropeognathus\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bea"
+  },
+  "Adolescent": "5d 20:17\n",
+  "Baby": "1d 04:03\n",
+  "Juvenile": "4d 16:14\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "11d 16:35\n",
+  "mat_time": "4:59\n",
+  "max_c": "50\n",
+  "max_f": "122\n",
+  "min_C": "0\n",
+  "min_f": "32\n",
+  "species": "  Tusoteuthis\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87beb"
+  },
+  "Adolescent": "23:08\n",
+  "Baby": "4:37\n",
+  "Juvenile": "18:31\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "1d 22:17\n",
+  "mat_time": "1:08\n",
+  "max_c": "32\n",
+  "max_f": "90\n",
+  "min_C": "28\n",
+  "min_f": "82\n",
+  "species": "  Velonasaur\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bec"
+  },
+  "Adolescent": "12:30\n",
+  "Baby": "2:30\n",
+  "Juvenile": "10:00\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "1d 01:01\n",
+  "mat_time": "1:21\n",
+  "max_c": "38\n",
+  "max_f": "100\n",
+  "min_C": "35\n",
+  "min_f": "95\n",
+  "species": "  Vulture\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bed"
+  },
+  "Adolescent": "1d 22:17\n",
+  "Baby": "9:15\n",
+  "Juvenile": "1d 13:02\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "3d 20:35\n",
+  "mat_time": "4:59\n",
+  "max_c": "90\n",
+  "max_f": "194\n",
+  "min_C": "80\n",
+  "min_f": "176\n",
+  "species": "  Wyvern\n"
+},{
+  "_id": {
+    "$oid": "5ee833022bebbc4fb4f87bee"
+  },
+  "Adolescent": "3d 20:35\n",
+  "Baby": "18:31\n",
+  "Juvenile": "3d 02:04\n",
+  "Mating_Interval": "18:00�48:00\n",
+  "Total": "7d 17:11\n",
+  "mat_time": "4:59\n",
+  "max_c": "34\n",
+  "max_f": "93\n",
+  "min_C": "32\n",
+  "min_f": "90\n",
+  "species": "  Yutyrannus\n"
+}]

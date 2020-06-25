@@ -1,0 +1,62 @@
+.taming-calc-container {
+  height: calc(100vh - 84px);
+  width: 100vw;
+  background-color: #ff9339;
+}
+
+.taming-comp-wrapper {
+  display: grid;
+  grid-template-columns: 30% 1fr 30%;
+  align-items: center;
+  justify-content: center;
+  padding-top: 20px;
+}
+.calc-wrapper {
+  display: grid;
+  grid-column: 2;
+  width: 80%;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 5%;
+  border: 3px solid white;
+  border-radius: 18px;
+  background-color: #003510;
+  color: #ff7300;
+  font-size: 1.3em;
+}
+.details-wrapper {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  border: 3px solid white;
+  border-radius: 20px;
+  background-color: #003510;
+  color: #ff7300;
+}
+.selectors-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.image-wrapper {
+  border: 2px solid white;
+  border-radius: 10px;
+}
+.level-selector {
+  padding-bottom: 20px;
+}
+.details-table {
+  width: 95%;
+  margin: 15px;
+  border-radius: 15px;
+  border: 3px solid #ff7300;
+  font-size: 0.8em;
+  td,
+  th {
+    border: 3px solid #ff7300;
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+  }
+}

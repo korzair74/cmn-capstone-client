@@ -1,0 +1,241 @@
+Creature,,Group,Diet,Temperment,Tamable,Rideable,Breedable
+  Abberant Coelacanth,      , Aberrant Creatures , Omnivore? , Reactive ,Yes, No , No
+  Aberrant Achatina,      , Aberrant Creatures , Herbivore , Passive ,Yes, No , No
+  Aberrant Anglerfish,      , Aberrant Creatures , Carnivore , Aggressive ,Yes,Yes ,Yes
+  Aberrant Ankylosaurus,      , Aberrant Creatures , Herbivore , Docile ,Yes,Yes ,Yes
+  Aberrant Araneo,      , Aberrant Creatures , Carnivore , Aggressive ,Yes,Yes , No
+  Aberrant Arthropluera,      , Aberrant Creatures , Carrion-Feeder , Aggressive ,Yes,Yes , No
+  Aberrant Baryonyx,      , Aberrant Creatures , Piscivore ," Passive to land creatures, but aggressive to water-dwellers ",Yes,Yes ,Yes
+  Aberrant Beelzebufo,      , Aberrant Creatures , Carnivore , Languorous ,Yes,Yes ,Yes
+  Aberrant Carbonemys,      , Aberrant Creatures , Herbivore , Defensive ,Yes,Yes ,Yes
+  Aberrant Carnotaurus,      , Aberrant Creatures , Carnivore , Aggressive ,Yes,Yes ,Yes
+  Aberrant Cnidaria,      , Aberrant Creatures , Carnivore ," Passive, but aggressive at close range ", No, No , No
+  Aberrant Dimetrodon,      , Aberrant Creatures , Carnivore , Reactive ,Yes, No ,Yes
+  Aberrant Dimorphodon,      , Aberrant Creatures , Carnivore , Reactive ,Yes, No ,Yes
+  Aberrant Diplocaulus,      , Aberrant Creatures , Piscivore , Skittish ,Yes,Yes ,Yes
+  Aberrant Diplodocus,      , Aberrant Creatures , Herbivore , Naive ,Yes,Yes ,Yes
+  Aberrant Dire Bear,      , Aberrant Creatures , Omnivore , Territorial ,Yes,Yes ,Yes
+  Aberrant Dodo,      , Aberrant Creatures , Herbivore , Oblivious ,Yes, No ,Yes
+  Aberrant Doedicurus,      , Aberrant Creatures , Herbivore , Docile ,Yes,Yes ,Yes
+  Aberrant Dung Beetle,      , Aberrant Creatures , Coprophagic , Passive ,Yes, No , No
+  Aberrant Electrophorus,      , Aberrant Creatures , Carnivore , Reactive ,Yes, No ,Yes
+  Aberrant Equus,      , Aberrant Creatures , Herbivore , Loyal ,Yes,Yes ,Yes
+  Aberrant Gigantopithecus,      , Aberrant Creatures , Herbivore , Territorial ,Yes,Yes ,Yes
+  Aberrant Iguanodon,      , Aberrant Creatures , Herbivore , Reactive ,Yes,Yes ,Yes
+  Aberrant Lystrosaurus,      , Aberrant Creatures , Herbivore , Loyal ,Yes, No ,Yes
+  Aberrant Manta,      , Aberrant Creatures , Carnivore , Defensive ,Yes,Yes ,Yes
+  Aberrant Megalania,      , Aberrant Creatures , Carnivore , Aggressive ,Yes,Yes ,Yes
+  Aberrant Megalosaurus,      , Aberrant Creatures , Carnivore , Nocturnally Aggressive ,Yes,Yes ,Yes
+  Aberrant Meganeura,      , Aberrant Creatures , Carnivore , Reactive , No, No , No
+  Aberrant Moschops,      , Aberrant Creatures , Omnivore , Cowardly ,Yes,Yes ,Yes
+  Aberrant Otter,      , Aberrant Creatures , Omnivore , Friendly ,Yes, No ,Yes
+  Aberrant Ovis,      , Aberrant Creatures , Herbivore , Stupid ,Yes,Yes ,Yes
+  Aberrant Paraceratherium,      , Aberrant Creatures , Herbivore , Docile ,Yes,Yes ,Yes
+  Aberrant Parasaur,      , Aberrant Creatures , Herbivore , Skittish ,Yes,Yes ,Yes
+  Aberrant Piranha,      , Aberrant Creatures , Carnivore , Aggressive ,Yes, No , No
+  Aberrant Pulmonoscorpius,      , Aberrant Creatures , Carnivore , Aggressive ,Yes,Yes , No
+  Aberrant Purlovia,      , Aberrant Creatures , Carnivore , Patient ,Yes, No ,Yes
+  Aberrant Raptor,      , Aberrant Creatures , Carnivore , Aggressive ,Yes,Yes ,Yes
+  Aberrant Salmon,      , Aberrant Creatures , Carnivore ," Evasive, Aggressive when attacked ",Yes, No , No
+  Aberrant Sarco,      , Aberrant Creatures , Carnivore , Patient ,Yes,Yes ,Yes
+  Aberrant Spino,      , Aberrant Creatures , Carnivore , Territorial ,Yes,Yes ,Yes
+  Aberrant Stegosaurus,      , Aberrant Creatures , Herbivore , Docile ,Yes,Yes ,Yes
+  Aberrant Titanoboa,      , Aberrant Creatures , Carnivore , Aggressive ,Yes, No , No
+  Aberrant Triceratops,      , Aberrant Creatures , Herbivore , Short-Tempered ,Yes,Yes ,Yes
+  Aberrant Trilobite,      , Aberrant Creatures , Carnivore , Defensive ,Yes, No , No
+  Beelzebufo,      , Amphibians , Carnivore , Languorous ,Yes,Yes ,Yes
+  Diplocaulus,      , Amphibians , Piscivore , Skittish ,Yes,Yes ,Yes
+  Archaeopteryx,      , Birds , Carnivore , Fearful ,Yes, No ,Yes
+  Argentavis,      , Birds , Carrion-Feeder , Short-Tempered ,Yes,Yes ,Yes
+  Dodo,      , Birds , Herbivore , Oblivious ,Yes, No ,Yes
+  Hesperornis,      , Birds , Piscivore , Flippant ,Yes, No ,Yes
+  Ichthyornis,      , Birds , Piscivore , Skittish ,Yes, No ,Yes
+  Kairuku,      , Birds , Piscivore , Friendly ,Yes, No ,Yes
+  Pelagornis,      , Birds , Piscivore , Skittish ,Yes,Yes ,Yes
+  Snow Owl,      , Birds , Carnivore , Aggressive ,Yes,Yes ,Yes
+  Terror Bird,      , Birds , Carnivore , Aggressive ,Yes,Yes ,Yes
+  Vulture,      , Birds , Carrion-Feeder , Docile ,Yes, No ,Yes
+  Allosaurus,      , Dinosaurs , Carnivore , Aggressive ,Yes,Yes ,Yes
+  Ankylosaurus,      , Dinosaurs , Herbivore , Docile ,Yes,Yes ,Yes
+  Baryonyx,      , Dinosaurs , Piscivore ," Passive to land creatures, but aggressive to water-dwellers ",Yes,Yes ,Yes
+  Brontosaurus,      , Dinosaurs , Herbivore , Docile ,Yes,Yes ,Yes
+  Carnotaurus,      , Dinosaurs , Carnivore , Aggressive ,Yes,Yes ,Yes
+  Compy,      , Dinosaurs , Carnivore , Curious ,Yes, No ,Yes
+  Deinonychus,      , Dinosaurs , Carnivore , Aggressive , No,Yes ,Yes
+  Dilophosaur,      , Dinosaurs , Carnivore , Aggressive ,Yes, No ,Yes
+  Diplodocus,      , Dinosaurs , Herbivore , Naive ,Yes,Yes ,Yes
+  Gallimimus,      , Dinosaurs , Herbivore , Skittish ,Yes,Yes ,Yes
+  Giganotosaurus,      , Dinosaurs , Carnivore , Angry ,Yes,Yes ,Yes
+  Iguanodon,      , Dinosaurs , Herbivore , Reactive ,Yes,Yes ,Yes
+  Kentrosaurus,      , Dinosaurs , Herbivore , Short-Tempered ,Yes, No ,Yes
+  Megalosaurus,      , Dinosaurs , Carnivore , Nocturnally Aggressive ,Yes,Yes ,Yes
+  Microraptor,      , Dinosaurs , Carnivore , Aggressive ,Yes, No ,Yes
+  Oviraptor,      , Dinosaurs , Carnivore , Skittish ,Yes, No ,Yes
+  Pachy,      , Dinosaurs , Herbivore , Passive ,Yes,Yes ,Yes
+  Pachyrhinosaurus,      , Dinosaurs , Herbivore , Evasive ,Yes,Yes ,Yes
+  Parasaur,      , Dinosaurs , Herbivore , Skittish ,Yes,Yes ,Yes
+  Pegomastax,      , Dinosaurs , Herbivore , Defensive ,Yes, No ,Yes
+  Raptor,      , Dinosaurs , Carnivore , Aggressive ,Yes,Yes ,Yes
+  Rex,      , Dinosaurs , Carnivore , Aggressive ,Yes,Yes ,Yes
+  Spino,      , Dinosaurs , Carnivore , Territorial ,Yes,Yes ,Yes
+  Stegosaurus,      , Dinosaurs , Herbivore , Docile ,Yes,Yes ,Yes
+  Therizinosaur,      , Dinosaurs , Herbivore , Aggressive ,Yes,Yes ,Yes
+  Titanosaur,      , Dinosaurs , Herbivore ," Passive, Unless Approached ",Yes,Yes , No
+  Triceratops,      , Dinosaurs , Herbivore , Defensive ,Yes,Yes ,Yes
+  Troodon,      , Dinosaurs , Carnivore , Nocturnally Aggressive ,Yes, No ,Yes
+  Yutyrannus,      , Dinosaurs , Carnivore , Aggressive ,Yes,Yes ,Yes
+  Astrocetus,      , Fantasy Creatures , Carnivore , Docile ,Yes,Yes , No
+  Basilisk,      , Fantasy Creatures , Carnivore , Aggressive ,Yes,Yes , No
+  Bloodstalker,      , Fantasy Creatures , Sanguinivore , Aggressive ,Yes,Yes ,Yes
+  Bulbdog,      , Fantasy Creatures , Herbivore , Passive ,Yes, No ,Yes
+  Chalk Golem,      , Fantasy Creatures , Minerals , Extremely Territorial ,Yes,Yes , No
+  Deathworm,      , Fantasy Creatures , Carnivore , Extremely Territorial , No, No , No
+  Desert Titan Flock,      , Fantasy Creatures , Unknown , Unknown , No, No , No
+  Eel Minion,      , Fantasy Creatures , Unknown , Unknown , No, No , No
+  Elemental Reaper King,      , Fantasy Creatures , Carnivore , Aggressive , No, No , No
+  Featherlight,      , Fantasy Creatures , Herbivore , Passive ,Yes, No ,Yes
+  Ferox,      , Fantasy Creatures , Omnivore , Cowardly ,Yes,Yes ,Yes
+  Gacha,      , Fantasy Creatures , Omnivore , Docile ,Yes,Yes ,Yes
+  Glowtail,      , Fantasy Creatures , Herbivore , Passive ,Yes, No ,Yes
+  Griffin,      , Fantasy Creatures , Carnivore , Aggressive ,Yes,Yes , No
+  Ice Golem,      , Fantasy Creatures , Minerals , Extremely Territorial ,Yes,Yes , No
+  Iceworm Male,      , Fantasy Creatures , Carnivore , Extremely Territorial , No, No , No
+  Insect Swarm,      , Fantasy Creatures , Carnivore , Aggressive , No, No , No
+  Karkinos,      , Fantasy Creatures , Omnivore , Aggressive ,Yes,Yes , No
+  Large Ferox,      , Fantasy Creatures , Herbivore , Aggressive ,Yes,Yes , No
+  Lava Elemental,      , Fantasy Creatures , Minerals , Extremely Territorial , No, No , No
+  Magmasaur,      , Fantasy Creatures , Omnivore , Territorial , No,Yes ,Yes
+  Managarmr,      , Fantasy Creatures , Carnivore , Aggressive ,Yes,Yes ,Yes
+  Megachelon,      , Fantasy Creatures , Omnivore , Docile ,Yes,Yes ,Yes
+  Morellatops,      , Fantasy Creatures , Herbivore , Passive ,Yes,Yes ,Yes
+  Parakeet Fish School,      , Fantasy Creatures , Carnivore , Aggressive , No, No , No
+  Phoenix,      , Fantasy Creatures , Flame Eater , Elusive ,Yes,Yes , No
+  Ravager,      , Fantasy Creatures , Carnivore , Aggressive ,Yes,Yes ,Yes
+  Reaper,      , Fantasy Creatures , Carnivore , Aggressive , No,Yes ,Yes
+  Reaper King,      , Fantasy Creatures , Carnivore , Aggressive , No,Yes ,Yes
+  Reaper Prince,      , Fantasy Creatures , Carnivore , Aggressive , No, No , No
+  Reaper Queen,      , Fantasy Creatures , Carnivore , Aggressive , No, No , No
+  Rock Drake,      , Fantasy Creatures , Carnivore , Aggressive , No,Yes , No
+  Rock Elemental,      , Fantasy Creatures , Minerals , Extremely Territorial ,Yes,Yes , No
+  Royal Griffin,      , Fantasy Creatures , Carnivore , Aggressive ,Yes,Yes ,Yes
+  Rubble Golem,      , Fantasy Creatures , Minerals , Extremely Territorial , No, No , No
+  Shinehorn,      , Fantasy Creatures , Herbivore , Passive ,Yes, No ,Yes
+  Subterranean Reaper King,      , Fantasy Creatures , Carnivore , Aggressive , No, No , No
+  Surface Reaper King,      , Fantasy Creatures , Carnivore , Aggressive , No, No , No
+  Unicorn,      , Fantasy Creatures , Herbivore , Loyal ,Yes,Yes ,Yes
+  Velonasaur,      , Fantasy Creatures , Carnivore , Omnivore ,Yes,Yes ,Yes
+  Anglerfish,      , Fish , Carnivore , Aggressive ,Yes,Yes ,Yes
+  Coelacanth,      , Fish , Omnivore? , Reactive ,Yes, No , No
+  Dunkleosteus,      , Fish , Carnivore , Docile ,Yes,Yes ,Yes
+  Electrophorus,      , Fish , Carnivore , Reactive ,Yes, No ,Yes
+  Lamprey,      , Fish , Carnivore , Aggressive ,Yes, No , No
+  Leedsichthys,      , Fish , Piscivore , Defensive , No, No , No
+  Manta,      , Fish , Carnivore , Aggressive ,Yes,Yes ,Yes
+  Megalodon,      , Fish , Carnivore , Aggressive ,Yes,Yes ,Yes
+  Piranha,      , Fish , Carnivore , Aggressive ,Yes, No , No
+  Sabertooth Salmon,      , Fish , Carnivore ," Evasive, Aggressive when attacked ",Yes, No , No
+  Achatina,      , Invertebrates , Herbivore , Passive ,Yes, No , No
+  Ammonite,      , Invertebrates , Bottom Feeder , Passive , No, No , No
+  Araneo,      , Invertebrates , Carnivore , Aggressive ,Yes,Yes , No
+  Arthropluera,      , Invertebrates , Carrion-Feeder , Aggressive ,Yes,Yes , No
+  Cnidaria,      , Invertebrates , Herbivore ," Passive, but aggressive at close range ", No, No , No
+  Diseased Leech,      , Invertebrates , Sanguinivore , Passive-Aggressive ,Yes, No , No
+  Dung Beetle,      , Invertebrates , Coprophagic , Passive ,Yes, No , No
+  Eurypterid,      , Invertebrates , Carnivore , Aggressive if approached , No, No , No
+  Gasbags,      , Invertebrates , Omnivore , Passive ,Yes,Yes ,Yes
+  Giant Bee,      , Invertebrates , Herbivore , Territorial ,Yes, No , No
+  Giant Queen Bee,      , Invertebrates , Herbivore , Territorial ,Yes, No , No
+  Giant Worker Bee,      , Invertebrates , Herbivore , Territorial , No, No , No
+  Glowbug,      , Invertebrates , Unknown , Passive , No, No , No
+  Jug Bug,      , Invertebrates , Herbivore , Passive , No, No , No
+  Leech,      , Invertebrates , Sanguinivore , Passive - Aggressive ,Yes, No , No
+  Lymantria,      , Invertebrates , Herbivore , Evasive ,Yes,Yes , No
+  Mantis,      , Invertebrates , Carnivore , Aggressive ,Yes,Yes , No
+  Meganeura,      , Invertebrates , Carnivore , Reactive , No, No , No
+  Pulmonoscorpius,      , Invertebrates , Carnivore , Aggressive ,Yes,Yes , No
+  Titanomyrma,      , Invertebrates , Carnivore , Territorial , No, No , No
+  Titanomyrma Drone,      , Invertebrates , Carnivore , Territorial , No, No , No
+  Titanomyrma Soldier,      , Invertebrates , Carnivore , Territorial , No, No , No
+  Trilobite,      , Invertebrates , Carnivore , Defensive ,Yes, No , No
+  Tusoteuthis,      , Invertebrates , Carnivore , Aggressive ,Yes,Yes ,Yes
+  Basilosaurus,      , Mammals , Piscivore , Passive ,Yes,Yes ,Yes
+  Castoroides,      , Mammals , Herbivore , Friendly ,Yes,Yes ,Yes
+  Chalicotherium,      , Mammals , Herbivore , Territorial ,Yes,Yes ,Yes
+  Daeodon,      , Mammals , Carnivore , Territorial ,Yes,Yes ,Yes
+  Dire Bear,      , Mammals , Omnivore , Territorial ,Yes,Yes ,Yes
+  Dire Polar Bear,      , Mammals , Omnivore , Territorial ,Yes,Yes ,Yes
+  Direwolf,      , Mammals , Carnivore , Aggressive ,Yes,Yes ,Yes
+  Doedicurus,      , Mammals , Herbivore , Docile ,Yes,Yes ,Yes
+  Equus,      , Mammals , Herbivore , Loyal ,Yes,Yes ,Yes
+  Gigantopithecus,      , Mammals , Herbivore , Territorial ,Yes,Yes ,Yes
+  Human,      , Mammals , Omnivore , Varied , No, No , No
+  Hyaenodon,      , Mammals , Carnivore , Opportunistic ,Yes, No ,Yes
+  Jerboa,      , Mammals , Herbivore , Cowardly ,Yes, No ,Yes
+  Mammoth,      , Mammals , Herbivore , Docile ,Yes,Yes ,Yes
+  Megaloceros,      , Mammals , Herbivore , Skittish ,Yes,Yes ,Yes
+  Megatherium,      , Mammals , Omnivore (primarily Herbivore) ," Passive, but aggressive to insects ",Yes,Yes ,Yes
+  Mesopithecus,      , Mammals , Omnivore , Curious ,Yes, No ,Yes
+  Onyc,      , Mammals , Omnivore , Aggressive ,Yes, No , No
+  Otter,      , Mammals , Omnivore , Friendly ,Yes, No ,Yes
+  Ovis,      , Mammals , Herbivore , Stupid ,Yes,Yes ,Yes
+  Paraceratherium,      , Mammals , Herbivore , Docile ,Yes,Yes ,Yes
+  Phiomia,      , Mammals , Herbivore , Skittish ,Yes,Yes ,Yes
+  Polar Bear,      , Mammals , Omnivore , Territorial , No, No , No
+  Procoptodon,      , Mammals , Herbivore , Reactive ,Yes,Yes ,Yes
+  Roll Rat,      , Mammals , Herbivore , Passive ,Yes,Yes ,Yes
+  Sabertooth,      , Mammals , Carnivore , Aggressive ,Yes,Yes ,Yes
+  Spirit Dire Bear,      , Mammals , Omnivore , Territorial ,Yes,Yes ,Yes
+  Spirit Direwolf,      , Mammals , Carnivore , Aggressive ,Yes,Yes ,Yes
+  Thylacoleo,      , Mammals , Carnivore , Aggressive ,Yes,Yes ,Yes
+  Woolly Rhino,      , Mammals , Herbivore , Friendly ,Yes,Yes ,Yes
+  Carbonemys,      , Reptiles , Herbivore , Defensive ,Yes,Yes ,Yes
+  Dimorphodon,      , Reptiles , Carnivore , Reactive ,Yes, No ,Yes
+  Ichthyosaurus,      , Reptiles , Carnivore , Curious ,Yes,Yes ,Yes
+  Kaprosuchus,      , Reptiles , Carnivore , Aggressive ,Yes,Yes ,Yes
+  Liopleurodon,      , Reptiles , Sweet Tooth , Elusive ,Yes,Yes , No
+  Megalania,      , Reptiles , Carnivore , Aggressive ,Yes,Yes ,Yes
+  Mosasaurus,      , Reptiles , Carnivore , Aggressive ,Yes,Yes ,Yes
+  Plesiosaur,      , Reptiles , Carnivore , Aggressive ,Yes,Yes ,Yes
+  Pteranodon,      , Reptiles , Carnivore , Skittish ,Yes,Yes ,Yes
+  Quetzal,      , Reptiles , Carnivore , Skittish ,Yes,Yes ,Yes
+  Sarco,      , Reptiles , Carnivore , Patient ,Yes,Yes ,Yes
+  Tapejara,      , Reptiles , Carnivore , Skittish ,Yes,Yes ,Yes
+  Thorny Dragon,      , Reptiles , Carnivore , Aggressive ,Yes,Yes ,Yes
+  Titanoboa,      , Reptiles , Carnivore , Aggressive ,Yes, No , No
+  Tropeognathus,      , Reptiles , Piscivore , Neutral ,Yes,Yes ,Yes
+  Dimetrodon,      , Synapsids , Carnivore , Reactive ,Yes, No ,Yes
+  Lystrosaurus,      , Synapsids , Herbivore , Loyal ,Yes, No ,Yes
+  Moschops,      , Synapsids , Omnivore , Cowardly ,Yes,Yes ,Yes
+  Polar Purlovia,      , Synapsids , Carnivore , Patient , No, No , No
+  Purlovia,      , Synapsids , Carnivore , Patient ,Yes, No ,Yes
+  Tek Parasaur,      , Tek Creatures , Herbivore , Skittish ,Yes,Yes ,Yes
+  Tek Quetzal,      , Tek Creatures , Carnivore , Skittish ,Yes,Yes ,Yes
+  Tek Raptor,      , Tek Creatures , Carnivore , Aggressive ,Yes,Yes ,Yes
+  Tek Rex,      , Tek Creatures , Carnivore , Aggressive ,Yes,Yes ,Yes
+  Tek Stegosaurus,      , Tek Creatures , Herbivore , Docile ,Yes,Yes ,Yes
+  Tek Triceratops,      , Tek Creatures , Herbivore , Short-Tempered ,Yes,Yes ,Yes
+  Desert Titan,      , Titans , Unknown , Highly Aggressive ,Yes,Yes , No
+  Forest Titan,      , Titans , Unknown , Highly Aggressive ,Yes,Yes , No
+  Ice Titan,      , Titans , Unknown , Highly Aggressive ,Yes,Yes , No
+  Golden Striped Megalodon,      , X-Creatures , Carnivore , Aggressive , No, No , No
+  X-Allosaurus,      , X-Creatures , Carnivore , Aggressively Social ,Yes,Yes ,Yes
+  X-Ankylosaurus,      , X-Creatures , Herbivore , Docile ,Yes,Yes ,Yes
+  X-Argentavis,      , X-Creatures , Carrion-Feeder , Short-Tempered ,Yes,Yes ,Yes
+  X-Basilosaurus,      , X-Creatures , Piscivore , Passive ,Yes,Yes ,Yes
+  X-Dunkleosteus,      , X-Creatures , Carnivore , Docile ,Yes,Yes ,Yes
+  X-Ichthyosaurus,      , X-Creatures , Carnivore , Curious ,Yes,Yes ,Yes
+  X-Megalodon,      , X-Creatures , Carnivore , Aggressive ,Yes,Yes ,Yes
+  X-Mosasaurus,      , X-Creatures , Carnivore , Aggressive ,Yes,Yes ,Yes
+  X-Otter,      , X-Creatures , Omnivore , Friendly ,Yes, No ,Yes
+  X-Paraceratherium,      , X-Creatures , Herbivore , Docile ,Yes,Yes ,Yes
+  X-Parasaur,      , X-Creatures , Herbivore , Skittish ,Yes,Yes ,Yes
+  X-Raptor,      , X-Creatures , Carnivore , Aggressive ,Yes,Yes ,Yes
+  X-Rex,      , X-Creatures , Carnivore , Aggressive ,Yes,Yes ,Yes
+  X-Rock Elemental,      , X-Creatures , Minerals , Extremely Territorial ,Yes,Yes , No
+  X-Sabertooth,      , X-Creatures , Carnivore , Aggressive ,Yes,Yes ,Yes
+  X-Sabertooth Salmon,      , X-Creatures , Carnivore ," Evasive, Aggressive when attacked ",Yes, No , No
+  X-Spino,      , X-Creatures , Carnivore , Territorial ,Yes,Yes ,Yes
+  X-Tapejara,      , X-Creatures , Carnivore , Skittish ,Yes,Yes ,Yes
+  X-Triceratops,      , X-Creatures , Herbivore , Short-Tempered ,Yes,Yes ,Yes
+  X-Woolly Rhino,      , X-Creatures , Herbivore , Friendly ,Yes,Yes ,Yes
+  X-Yutyrannus,      , X-Creatures , Carnivore , Aggressive ,Yes,Yes ,Yes
